@@ -1,0 +1,7 @@
+Mapeo
+0. Convolución y Ejemplo sencillo de conv. filtro de media local (30 minutos)
+1. Clasificación en 2 clases: con el perceptrón con ejemplo (1 hora)
+2. Clasificación en más clases, no lineal: Perceptrón multicapa (1 hora)
+3. Redes convolucionales (1 hora)
+3.1 Ejemplo sencillo con keras
+Secuencia de pasos? Fabián
